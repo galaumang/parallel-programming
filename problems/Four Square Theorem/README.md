@@ -77,7 +77,6 @@ java pj2 threads=<K> FourSquaresSmp <n>
 
 **Note:** Your program's output should conform exactly Software Requirements 1 through 4.
 
-
 ## Software Design Criteria
 * The programs must follow the multi-core parallel programming patterns studied in class.
 * The programs must be designed using object oriented design principles as appropriate.
