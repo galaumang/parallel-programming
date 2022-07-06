@@ -74,6 +74,7 @@ java pj2 threads=<K> FourSquaresSmp <n>
 **Note:** This means that the program's class must be named FourSquaresSmp, this class must not be in a package, and this class must extend class edu.rit.pj2.Task.
 * If the command line does not have the required number of arguments, or if any argument is erroneous, the program must print a usage message on the standard error and must exit. The wording of the usage message is up to you.
 * The program must print on the standard output the lexicographically largest expression and the number of different expressions in the format specified above under Program Input and Output.
+
 **Note:** Your program's output should conform exactly Software Requirements 1 through 4.
 
 
